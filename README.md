@@ -14,9 +14,3 @@ Jasmine is a behavior-driven testing framework for Javascript.  This is a TextMa
 
     $ cd ~/Library/Application\ Support/TextMate/Bundles/
     $ git clone git://github.com/fiveisprime/jasmine-tmbundle.git Jasmine.tmbundle
-    $ osascript -e 'tell app "TextMate" to reload bundles'
-
-    # or
-
-    $ [sudo] gem install textmate
-    $ textmate install Jasmine
