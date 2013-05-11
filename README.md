@@ -13,5 +13,5 @@ Jasmine is a behavior-driven testing framework for Javascript.  This is a TextMa
 
 ## Bundle Installation
 
-    $ cd ~/Library/Application\ Support/TextMate/Bundles/
+    $ cd ~/Library/Application\ Support/TextMate/Managed/Bundles/
     $ git clone git://github.com/fiveisprime/jasmine-tmbundle.git Jasmine.tmbundle
