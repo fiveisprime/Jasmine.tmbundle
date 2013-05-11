@@ -18,11 +18,11 @@
 	<array>
 		<dict>
 			<key>include</key>
-			<string>source.js</string>
+			<string>source.js,source.html</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string> source.js</string>
+	<string>source.js,source.html</string>
 	<key>uuid</key>
 	<string>EE325085-860E-4442-AE0C-643F6ACEF009</string>
 </dict>

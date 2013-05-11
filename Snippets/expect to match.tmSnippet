@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>expect to match</string>
 	<key>scope</key>
-	<string> source.js</string>
+	<string>source.js,source.html</string>
 	<key>tabTrigger</key>
 	<string>em</string>
 	<key>uuid</key>
