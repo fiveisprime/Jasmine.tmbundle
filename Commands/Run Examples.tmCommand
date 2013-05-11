@@ -18,7 +18,7 @@ wt $TM_FILEPATH --summarizer html</string>
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>scope</key>
-	<string>source.js.jasmine</string>
+	<string> source.js</string>
 	<key>uuid</key>
 	<string>EC249A94-DCB0-4A31-903E-408C40F18C11</string>
 </dict>
