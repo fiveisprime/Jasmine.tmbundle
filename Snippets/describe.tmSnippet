@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>describe('${1:description}', function() {
   $0
-})</string>
+});</string>
 	<key>name</key>
 	<string>describe</string>
 	<key>scope</key>

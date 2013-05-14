@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>it('${1:description}', function() {
   $0
-})</string>
+});</string>
 	<key>name</key>
 	<string>it</string>
 	<key>scope</key>
