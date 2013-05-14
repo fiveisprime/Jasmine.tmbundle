@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>expect to be truthy</string>
 	<key>scope</key>
-	<string>source.js,source.html</string>
+	<string>source.js, source.html</string>
 	<key>tabTrigger</key>
 	<string>et</string>
 	<key>uuid</key>

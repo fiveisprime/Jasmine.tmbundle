@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>after each</string>
 	<key>scope</key>
-	<string>source.js,source.html</string>
+	<string>source.js, source.html</string>
 	<key>tabTrigger</key>
 	<string>aft</string>
 	<key>uuid</key>
